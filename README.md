@@ -1,5 +1,5 @@
 # Logistic_regression
-Fit home-written logistic regression algorithm. The data consists of columns that are points in Hogwarts School. The targets are the coalitions to which each student belongs.
+home-written logistic regression fitting algorithm. The data consists of columns that are points in Hogwarts School. The targets are the coalitions to which each student belongs.
 
 
 For training use: ```python logreg_train.py dataset_train.csv```.
